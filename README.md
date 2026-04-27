@@ -135,7 +135,8 @@ A curated list of high-quality resources focused on securing Microsoft cloud env
 
 ## 🧪 Hands-on Labs
 
-- [Zero Trust Lab Guide](https://microsoft.github.io/cloudlab/)
+- ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+ [Zero Trust Lab Guide](https://microsoft.github.io/cloudlab/)
 - 
 
 ---
@@ -158,8 +159,7 @@ A curated list of high-quality resources focused on securing Microsoft cloud env
 ### SC-900
 - ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 [SC-900: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/certifications/sc-900/)
-- ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [SC-900: Microsoft Security, Compliance, and Identity Fundamentals - Microsoft Learn Youtube](https://www.youtube.com/watch?v=3D6s2UxNI28&list=PLahhVEj9XNTc3cKjd28NUDFPrV4QcfxH5)
+- ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [SC-900: Microsoft Security, Compliance, and Identity Fundamentals - Microsoft Learn Youtube](https://www.youtube.com/watch?v=3D6s2UxNI28&list=PLahhVEj9XNTc3cKjd28NUDFPrV4QcfxH5)
 ### SC-100
 - ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 [Study guide for Exam SC-100: Microsoft Cybersecurity Architect](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-100)
@@ -195,7 +195,7 @@ A curated list of high-quality resources focused on securing Microsoft cloud env
 [Course SC-401T00-A: Protect sensitive information with Microsoft Purview in the AI era](https://learn.microsoft.com/en-us/training/courses/sc-401t00)
 - ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 [SC-401 Practice Assesment](https://learn.microsoft.com/en-us/credentials/certifications/information-security-administrator/practice/assessment?assessment-type=practice&assessmentId=1801497482&practice-assessment-type=certification)
-- [SC-401 Microsoft Lab Exercises](https://github.com/MicrosoftLearning/SC-401T00-Information-Security-Administrator)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) [SC-401 Microsoft Lab Exercises](https://github.com/MicrosoftLearning/SC-401T00-Information-Security-Administrator)
 - ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [SC-401: Protect sensitive information with Microsoft Purview in the AI era](https://www.youtube.com/watch?v=V-tZlBQC2oQ&list=PLahhVEj9XNTfJjEN8nVgE812xSWKXny7q)
 - ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [SC-401 Exam Study Guide Series - Peter Rising](https://www.youtube.com/watch?v=b1IcZXkiuH0&list=PL9f-PbmksakAzoA0OIsrVDeguk_svijiO)
 
