@@ -156,11 +156,11 @@ A curated list of high-quality resources focused on securing Microsoft cloud env
 ---
 
 ## 🎓 Learning & Certifications
-### SC-900
+### 📝 SC-900
 - ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 [SC-900: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/certifications/sc-900/)
 - ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [SC-900: Microsoft Security, Compliance, and Identity Fundamentals - Microsoft Learn Youtube](https://www.youtube.com/watch?v=3D6s2UxNI28&list=PLahhVEj9XNTc3cKjd28NUDFPrV4QcfxH5)
-### SC-100
+### 📝 SC-100
 - ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 [Study guide for Exam SC-100: Microsoft Cybersecurity Architect](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-100)
 -   ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -176,16 +176,27 @@ A curated list of high-quality resources focused on securing Microsoft cloud env
 -  ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 [ SC-100 Practice Assesment](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-100/practice/assessment?assessmentId=87&assessment-type=practice)
 -  ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [Preparing for the SC-100 Exam - Microsoft Learn - YouTube](https://www.youtube.com/watch?v=6-05jW9lMiM&list=PLahhVEj9XNTc0n9Kr47L8N7U1cTr3uWax)
-### SC-200
-- ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+### 📝 SC-200
+- ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white) 
 [SC-200: Security Operations Analyst](https://learn.microsoft.com/certifications/sc-200/)
+- ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white) 
+[SC-200 exam page](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst)
+- ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white) 
+[Preparing for SC-200: Manage a security operations environment (Part 1 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-sc-200-manage-a-security-operations-environment)
+- ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white) 
+[Preparing for SC-200: Manage a security operations environment (Part 2 of 4)](https://learn.microsoft.com/en-us/shows/exam-r📝eadiness-zone/preparing-for-sc-200-configure-protections-and-detections)
+- ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white) [Preparing for SC-200: Manage a security operations environment (Part 3 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-sc-200-manage-incident-response)
+- ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white) [Preparing for SC-200: Manage a security operations environment (Part 4 of 4)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-sc-200-manage-security-threats)
+- ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white) [SC-200 Practice assesment](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/practice/assessment?assessment-type=practice&assessmentId=59&practice-assessment-type=certification)
 - ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [Preparing for the SC-200 Exam - Microsoft Learn - YouTube](https://www.youtube.com/watch?v=M5RvEabcgZk&list=PLahhVEj9XNTcHNtYH-inn7xFJactEM7zz)
 - ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [SC-200: Microsoft Security Operations Analyst - Microsoft Learn - YouTube](https://www.youtube.com/watch?v=thcE2t1TH50&list=PLahhVEj9XNTfSpvU-_iEvLJXiA0EDXkXQ)
-### SC-300
+  
+### 📝 SC-300
 - ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 [SC-300: Identity and Access Administrator](https://learn.microsoft.com/certifications/sc-300/)
 - ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [Preparing for the SC-300 Exam - Microsoft Learn YouTube](https://www.youtube.com/watch?v=oZ0RkKVrtaM&list=PLahhVEj9XNTfkF9FZHW7FDcdcYRk9kO0d)
-### SC-401
+  
+### 📝 SC-401
 > [!IMPORTANT]  
 > Microsoft SC-400 (Information Protection and Compliance Administrator Associate) certification was retired on May 31, 2025 and replaced by the new SC-401: Microsoft Certified: Information Security Administrator Associate exam
 
