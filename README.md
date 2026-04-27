@@ -8,7 +8,7 @@ A curated list of high-quality resources focused on securing Microsoft cloud env
 
 ## 📚 Contents
 
-- [Awesome Microsoft Cloud Security 🔐☁️](#awesome-microsoft-cloud-security-️)
+- [Awesome Microsoft Security 🔐☁️](#awesome-microsoft-cloud-security-️)
   - [📚 Contents](#-contents)
   - [🔐 Identity \& Access (Entra ID)](#-identity--access-entra-id)
   - [🛡️ Microsoft Defender](#️-microsoft-defender)
@@ -162,7 +162,9 @@ A curated list of high-quality resources focused on securing Microsoft cloud env
 - [Microsoft Security Community Virtual Events](https://securitycommunity.microsoft.com/VirtualEvents/)
 
 ### Social Media
-[Bluesky.ms](https://bluesky.ms/): Connect with the Microsoft community on Bluesky and get your account verified ⭐.
+- [Bluesky.ms](https://bluesky.ms/): Connect with the Microsoft community on Bluesky and get your account verified ⭐.
+- ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+[Microsoft Security Twitter/X list](https://x.com/i/lists/1823156970544603388?s=20): A curated list of Twitter or X accounts about Microsoft security
 
 
 
