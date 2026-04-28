@@ -12,6 +12,7 @@ A curated list of high-quality resources focused on securing Microsoft cloud env
   - [📚 Contents](#-contents)
   - [🔐 Identity \& Access (Entra ID)](#-identity--access-entra-id)
   - [🛡️ Microsoft Defender](#️-microsoft-defender)
+      - [🛡️ Microsoft Defender for Cloud](#microsoft-defender-for-cloud)   
   - [📧 Microsoft 365 Security](#-microsoft-365-security)
   - [🗄️ Microsoft Purview](#️-microsoft-purview)
   - [🧠 Zero Trust \& Core Concepts](#-zero-trust--core-concepts)
@@ -65,6 +66,18 @@ A curated list of high-quality resources focused on securing Microsoft cloud env
 [Defender for Cloud Apps](https://learn.microsoft.com/defender-cloud-apps/)
 - ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 [Defender for Identity](https://learn.microsoft.com/defender-for-identity/)
+ - ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+[Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR](https://learn.microsoft.com/en-us/credentials/applied-skills/defend-against-cyberthreats-with-microsoft-defender-xdr/)
+ - ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+[Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR](https://learn.microsoft.com/en-us/credentials/applied-skills/defend-against-cyberthreats-with-microsoft-defender-xdr/)
+
+### Microsoft Defender for Cloud
+ - ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+[Microsoft Applied Skills: Secure AI Solutions in the Cloud](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-ai-solutions-in-the-cloud/)
+ - ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+[Microsoft Applied Skills: Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls
+](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-azure-services-and-workloads-with-microsoft-defender-for-cloud-regulatory-compliance-controls/)
+
 
 **⭐ Editor’s Picks**
 - ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -111,6 +124,12 @@ A curated list of high-quality resources focused on securing Microsoft cloud env
 [Microsoft Purview documentation](https://learn.microsoft.com/en-us/purview/)  
 - ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 [Learn about data loss prevention (DLP)](https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp)  
+- ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+[Microsoft Applied Skills: Implement information protection and data loss prevention by using Microsoft Purview](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-information-protection-and-data-loss-prevention-by-using-microsoft-purview/)
+ - ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+[Microsoft Applied Skills: Implement retention, eDiscovery, and Communication Compliance in Microsoft Purview](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-retention-ediscovery-and-communication-compliance-in-microsoft-purview/)
+  
+
 
 **⭐ Editor’s Picks**
 - ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
