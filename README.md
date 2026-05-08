@@ -24,6 +24,7 @@ A curated list of high-quality resources focused on securing Microsoft cloud env
     - [SC-200](#-sc-200)
     - [SC-300](#-sc-300)
     - [SC-401](#-sc-401)
+    - [SC-730](#-sc-730)
   - [🌍 Community \& Blogs](#-community--blogs)
     - [Social Media](#social-media)
   - [🤝 Contributing](#-contributing)
@@ -228,6 +229,13 @@ A curated list of high-quality resources focused on securing Microsoft cloud env
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) [SC-401 Microsoft Lab Exercises](https://github.com/MicrosoftLearning/SC-401T00-Information-Security-Administrator)
 - ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [SC-401: Protect sensitive information with Microsoft Purview in the AI era](https://www.youtube.com/watch?v=V-tZlBQC2oQ&list=PLahhVEj9XNTfJjEN8nVgE812xSWKXny7q)
 - ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [SC-401 Exam Study Guide Series - Peter Rising](https://www.youtube.com/watch?v=b1IcZXkiuH0&list=PL9f-PbmksakAzoA0OIsrVDeguk_svijiO)
+
+### 📝 SC-730
+> [!IMPORTANT]  
+> The newly announced [Cybersecurity Business Professional Certification](https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-cybersecurity-business-professional-certification/4494124?wt.mc_id=credentials_changes_blog_wwl_x) is currently in beta and is expected to be fully released in July 2026.
+- [Study guide for Exam SC-730: Cybersecurity Business Professional](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-730?wt.mc_id=credentials_SC730_blog_wwl)
+- [Microsoft Certified: Cybersecurity Business Professional - Certification details](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-business-professional/?wt.mc_id=credentials_SC730_blog_wwl#certification-exams)
+- [Exam SC-730: Cybersecurity Business Professional](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-730/)
 
 
 ---
