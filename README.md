@@ -179,12 +179,22 @@ Covering Zero Trust, identity protection, threat detection, KQL hunting, data se
 - [SC-401 exam prep series (YouTube)](https://www.youtube.com/watch?v=V-tZlBQC2oQ&list=PLahhVEj9XNTfJjEN8nVgE812xSWKXny7q) - Official Microsoft Learn video series for SC-401 preparation.
 - [SC-401 Exam Study Guide Series – Peter Rising (YouTube)](https://www.youtube.com/watch?v=b1IcZXkiuH0&list=PL9f-PbmksakAzoA0OIsrVDeguk_svijiO) - Community video series by MVP Peter Rising covering all SC-401 topics in depth.
 
-### SC-730 – Cybersecurity Business Professional (Beta)
+### SC-730 – Cybersecurity Business Professional
 
 > **Note:** SC-730 is currently in beta and expected to be fully released in July 2026.
 
 - [Study guide for Exam SC-730](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-730?wt.mc_id=credentials_SC730_blog_wwl) - Official study guide for the new Cybersecurity Business Professional certification.
 - [SC-730 certification details](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-business-professional/?wt.mc_id=credentials_SC730_blog_wwl#certification-exams) - Exam overview, objectives, and preparation resources.
+
+### SC-500 – Cloud and AI Security Engineer Associate Certification
+
+> **Note:** SC-500 is currently in beta and expected to be fully released in July 2026. Replaces AZ-500 which will retire on August 31.
+
+- [Study guide for Exam SC-500](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-500?wt.mc_id=credentials_SC500_blog_wwl) - Official study guide for the new Cloud and AI Security Engineer Associate certification.
+- [SC-500 certification details](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-business-professional/?wt.mc_id=credentials_SC730_blog_wwl#certification-exams) - Exam overview, objectives, and preparation resources.
+- [Course Implement end‑to‑end security controls for cloud and AI workloads](https://learn.microsoft.com/en-us/training/courses/sc-500t00) - Course SC-500T00-A: Implement end‑to‑end security controls for cloud and AI workloads
+
+
 
 ---
 
